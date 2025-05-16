@@ -17,7 +17,7 @@ FFANet/
 ├── images/
 │   ├── img1.png
 │   └── img2.png
-├── FFA-Net.py
+├── FFA-Net.ipynb
 ├── main.py
 ├── r2.py
 └── README.md
