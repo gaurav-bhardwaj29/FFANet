@@ -39,7 +39,6 @@ pip install -r requirements.txt
 python main.py --input data/hazy_images --output results/
 ```
 
-You can specify the `--input` directory for hazy images and the `--output` directory for storing the results.
 
 ---
 
