@@ -17,7 +17,7 @@ FFANet/
 ├── images/
 │   ├── img1.png
 │   └── img2.png
-├── Model.py
+├── FFA-Net.py
 ├── main.py
 ├── r2.py
 └── README.md
