@@ -8,20 +8,6 @@ This repository showcases advanced methods for single image dehazing, aimed at e
 
 3. **FFANet for Single Image Dehazing** - A state-of-the-art neural network that leverages feature fusion and attention mechanisms to accurately remove haze from single images. This is based on the work *FFA-Net: Feature Fusion Attention Network for Single Image Dehazing* by Luo et al.
 
----
-
-## Project Structure
-
-```
-FFANet/
-├── images/
-│   ├── img1.png
-│   └── img2.png
-├── FFA-Net.ipynb
-├── main.py
-├── r2.py
-└── README.md
-```
 
 ---
 
