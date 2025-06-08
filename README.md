@@ -1,6 +1,6 @@
 # Single Image Dehazing Techniques
 
-This repository showcases advanced methods for single image dehazing, aimed at enhancing visibility in hazy or foggy conditions. It includes implementations of three key algorithms designed to restore image clarity effectively:
+This repository showcases advanced methods for single image dehazing, aimed at enhancing visibility and resorting image quality in endoscopic surgical procedures. It includes implementations of three key algorithms designed to restore image clarity effectively:
 
 1. **Luminance Blending (Luo et al.)** - A method that improves visibility by manipulating luminance levels, primarily focused on applications like endoscopic video defogging. This technique was introduced in the paper *Luminance Blending for Endoscopic Video Defogging*.
 
